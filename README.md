@@ -1,4 +1,4 @@
-# Foobar
+# Levent Koleji Online Ders &mdash; Client
 
 Foobar is a Python library for dealing with word pluralization.
 
