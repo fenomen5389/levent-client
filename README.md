@@ -1,3 +1,3 @@
 
-# 
-Rize Levent Koleji &mdash; Online Eğitim Uygulaması Client
+#Rize Levent Koleji &mdash; Online Eğitim Uygulaması Client
+
